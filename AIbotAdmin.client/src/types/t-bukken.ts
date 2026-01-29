@@ -1,0 +1,31 @@
+export type T_Bukken = {
+    id: number
+    bukken_cd: number
+    createUserCD: number
+    createUserName: string
+    bukken_name: string
+    doc_name: string
+    transfer_date: string
+    physical_path: string
+    dimgRegisteredFlg: number
+    documentTypeCD: number
+    documentDetailsCD: number
+    documentMediaCD: number
+    companyTypeFlg: number
+    relatedDocument: string
+    terminatedDocument: string
+    branchName: string
+    divisionName: string
+    groupTypeFlg: number
+    companyName: string
+    create_date?: string
+    contract_start: string
+    contract_end: string
+    b_characters: string
+    remarks: string
+    kNumber: string
+    amount: string
+    tanto_name: string
+    unitCD: number,
+    storage_id: string
+}

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "AIbotAdmin.client", "AIbotAdmin.client\AIbotAdmin.client.esproj", "{BDE49979-5D14-9692-64FF-A50CEF4019E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIbotAdmin.Server", "AIbotAdmin.Server\AIbotAdmin.Server.csproj", "{47334CA2-8301-47B0-9773-BE2D5B21638B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE49979-5D14-9692-64FF-A50CEF4019E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE49979-5D14-9692-64FF-A50CEF4019E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE49979-5D14-9692-64FF-A50CEF4019E3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BDE49979-5D14-9692-64FF-A50CEF4019E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE49979-5D14-9692-64FF-A50CEF4019E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE49979-5D14-9692-64FF-A50CEF4019E3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{47334CA2-8301-47B0-9773-BE2D5B21638B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47334CA2-8301-47B0-9773-BE2D5B21638B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47334CA2-8301-47B0-9773-BE2D5B21638B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47334CA2-8301-47B0-9773-BE2D5B21638B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95FA3209-7A1F-4545-B70D-BEDAE34A50CD}
+	EndGlobalSection
+EndGlobal
